@@ -49,3 +49,6 @@ ax.legend()
 
 plt.show()
 ```
+
+
+<h2> Creating histograms </h2> 
