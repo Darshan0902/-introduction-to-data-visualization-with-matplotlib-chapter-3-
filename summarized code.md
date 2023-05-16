@@ -84,3 +84,6 @@ ax.set_ylabel("# of observations")
 plt.show()
 
 ```
+
+
+<h2> Step Histogram : </h2>
