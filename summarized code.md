@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 <br>import pandas as pd
 
+
+```
 fig, ax = plt.subplots()
 # Plot a histogram of "Weight" for mens_rowing
 ax.hist(mens_rowing["Weight"])
@@ -16,3 +18,4 @@ ax.set_xlabel("Weight (kg)")
 ax.set_ylabel("# of observations")
 
 plt.show() 
+```
