@@ -87,3 +87,9 @@ plt.show()
 
 
 <h2> Step Histogram : </h2>
+
+
+Use the hist method to display a histogram of the "Weight" column from the mens_rowing DataFrame, label this as "Rowing".
+Use hist to display a histogram of the "Weight" column from the mens_gymnastics DataFrame, and label this as "Gymnastics".
+For both histograms, use the histtype argument to visualize the data using the 'step' type and set the number of bins to use to 5.
+Add a legend to the figure, before it is displayed
