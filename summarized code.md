@@ -155,3 +155,8 @@ plt.show()
 
 
 <h2> Creating boxplots </h2>
+INSTRUCTIONS
+
+Create a boxplot that contains the "Height" column for mens_rowing on the left and mens_gymnastics on the right.
+Add x-axis tick labels: "Rowing" and "Gymnastics".
+Add a y-axis label: "Height (cm)"
