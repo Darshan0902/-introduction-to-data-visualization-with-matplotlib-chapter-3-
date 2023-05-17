@@ -128,3 +128,8 @@ ax.legend()
 plt.show(
 
 ```
+<h2> Adding error-bars to a bar chart</h2> :
+
+Add a bar with size equal to the mean of the "Height" column in the mens_rowing DataFrame and an error-bar of its standard deviation.
+Add another bar for the mean of the "Height" column in mens_gymnastics with an error-bar of its standard deviation.
+Add a label to the the y-axis: "Height (cm)".
