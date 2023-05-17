@@ -229,23 +229,3 @@ plt.show()
 
 ```
 
-<h2> 
-Selecting a style for printing 
-  </h2> :
-  
-  You are creating a figure that will be included in a leaflet printed on a black-and-white printer. What style should you choose for your figures?
-
-In the console, we have loaded the medals dataset. Before initializing Axes and Figure objects and plotting them, you can try setting a style to use.
-
-OPTIONS:
-
-'seaborn-colorblind'
-
-'grayscale'
-
-'tableau-colorblind10'
-
-'bmh'
-
-Select the 'Solarize_Light2' style, create a new Figure called fig, and a new Axes object called ax with plt.subplots.
-
